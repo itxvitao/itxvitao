@@ -4,7 +4,7 @@
 
 - 🔥 Full-Stack Web Developer 
 
-- 🔭 I’m currently student at [Rocketseat](https://github.com/Rocketseat) and OneBitCode
+- 🔭 I’m currently student at [Rocketseat](https://github.com/Rocketseat) and [OneBitCode](https://github.com/OneBitCodeBlog)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
@@ -27,16 +27,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
 
 <br><br>
 
